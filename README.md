@@ -75,6 +75,7 @@ npx playwright show-report
 ```
 
 ##🧪 Test Scenarios Covered
+
 **1. Authentication (Login.spec.ts)**
 ✅ Login with valid credentials (Standard User).
 
