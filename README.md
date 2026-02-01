@@ -42,8 +42,7 @@ This project demonstrates a robust testing architecture using the **Page Object 
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-
+   git clone https://github.com/YNattaporn68/saucedemo-playwright-e2e.git
 2. **Install dependencies**
     ```bash
     npm install
