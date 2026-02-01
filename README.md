@@ -74,6 +74,7 @@ npx playwright test tests/Checkout.spec.ts
 npx playwright show-report
 ```
 
+
 ##🧪 Test Scenarios Covered
 
 
