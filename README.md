@@ -67,10 +67,12 @@ npx playwright test --headed
 **Run specific test file:**
 ```bash
 npx playwright test tests/Checkout.spec.ts
+```
 
 **View HTML Report:**
 ```bash
 npx playwright show-report
+```
 
 ##🧪 Test Scenarios Covered
 **1. Authentication (Login.spec.ts)**
