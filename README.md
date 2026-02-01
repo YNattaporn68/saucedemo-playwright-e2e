@@ -76,7 +76,9 @@ npx playwright show-report
 
 ##🧪 Test Scenarios Covered
 
+
 **1. Authentication (Login.spec.ts)**
+
 ✅ Login with valid credentials (Standard User).
 
 ✅ Login with invalid password (Error validation).
@@ -84,6 +86,7 @@ npx playwright show-report
 ✅ Locked-out user validation.
 
 **2. Inventory & Product Management (Inventory.spec.ts)**
+
 ✅ Product sorting (Price: Low-High, High-Low, Name: A-Z, Z-A).
 
 ✅ Adding/Removing items.
@@ -91,11 +94,13 @@ npx playwright show-report
 ✅ Cart badge validation.
 
 **3. Cart Functionality (Cart.spec.ts)**
+
 ✅ Verify items persistence.
 
 ✅ Empty cart validation.
 
 **4. Checkout & Logic (Checkout.spec.ts)**
+
 ✅ E2E Purchase Flow.
 
 ✅ Tax Calculation Logic: Item Total + Tax (8%) = Grand Total.
