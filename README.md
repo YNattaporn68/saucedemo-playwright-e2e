@@ -36,6 +36,7 @@ This project demonstrates a robust testing architecture using the **Page Object 
 ├── playwright.config.ts    # Framework Configuration
 ├── package.json            # Dependencies
 └── README.md               # Project Documentation
+```
 
 ## 💻 Installation & Setup
 
