@@ -57,10 +57,12 @@ This project demonstrates a robust testing architecture using the **Page Object 
 **Run all tests (Headless mode):**
 ```bash
 npx playwright test
+```
 
 **Run tests with UI (See the browser action):**
 ```bash
 npx playwright test --headed
+```
 
 **Run specific test file:**
 ```bash
